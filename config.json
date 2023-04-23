@@ -1,9 +1,9 @@
 {
-    "ip": "Your Server IP",
-    "comment": "Enter Your Server IP Without Port",
-    "port": "Your Server Port",
+    "ip": "in1.pylexservers.xyz:8394",
+    "comment": "in1.pylexservers.xyz",
+    "port": "8394",
     "comment": "Enter Your Server Port Without : OR IP",
-    "name": "Your Bot Name",
+    "name": "MfBetch",
     "comment": "The Bot Will Join With This Name",
     "webserverport": "8080",
     "comment": "The Web Server Will Run in this port",
